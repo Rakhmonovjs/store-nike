@@ -33,8 +33,8 @@ import youtube from "../assets/youtube.svg";
 import messenger from "../assets/messenger.svg";
 
 const heroapi = {
-  title: "Play With Electric Nike",
-  subtitle: "Adapt 2.0 Sneakers",
+  title: "Fathulla dalbayob bu sani sayting sotishinga yordam",
+  subtitle: "Buni narxini ozin ozgartitra olasan ",
   img: heroimg,
   btntext: "Explore Product",
   videos: [
